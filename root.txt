@@ -1,0 +1,288 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="X-UA-Compatible" content="IE=8" /><title>
+	..:: Directorate of Technical Education, Maharashtra State, Mumbai ::..
+</title><link rel="shortcut icon" href="../Images/mkcl.ico" type="image/x-icon" />
+        <script language="javascript" src="../OasisModules_Files/Scripts/FuncLib.js" type="text/javascript"></script>
+        <script language="javascript" src="../OasisModules_Files/Scripts/ContentBox.js" type="text/javascript"></script>
+        <script language="javascript" src="../OasisModules_Files/Scripts/ExpanderMenu.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            var i = 12;
+	    </script>
+    <link href="../App_Themes/default/ExpanderMenu.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/default/google-search.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/default/grid.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/default/InnerStyle.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/default/interface.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/default/interface_old.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/default/SpryMenuBarHorizontal.css" type="text/css" rel="stylesheet" /></head>
+    <body>
+        <form name="aspnetForm" method="post" action="frmSearchInstitute.aspx?did=64" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNTY1MTM4NzEPZBYCZg9kFgICAw9kFgwCAw8QZA8WAmYCARYCEAUHRW5nbGlzaAUHRW5nbGlzaGcQBQ/gpK7gpLDgpL7gpKDgpYAFB01hcmF0aGlnFgFmZAIFD2QWAgIBDw8WAh4EVGV4dAX0AjxkaXY+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OnZlcmRhbmEsZ2VuZXZhLHNhbnMtc2VyaWY7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOjE2cHg7Ij5EaXJlY3RvcmF0ZSBvZiBUZWNobmljYWwgRWR1Y2F0aW9uLCBNYWhhcmFzaHRyYSBTdGF0ZTwvc3Bhbj48L3NwYW4+PC9kaXY+PGRpdj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAyMHB4OyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBhcmlhbCB1bmljb2RlIG1zOyI+4KSk4KSC4KSk4KWN4KSw4KS24KS/4KSV4KWN4KS34KSjIOCkuOCkguCkmuCkvuCksuCkqOCkvuCksuCkrywg4KSu4KS54KS+4KSw4KS+4KS34KWN4KSf4KWN4KSwIOCksOCkvuCknOCljeCkryA8L3NwYW4+PC9zcGFuPjwvZGl2PmRkAgkPDxYEHghDc3NDbGFzcwUHVG9wTWVudR4EXyFTQgICZGQCCw8PFgQfAQUMRXhwYW5kZXJNZW51HwICAmRkAg0PZBYCZg9kFgICAQ8PFgYfAQULU2hvd01lc3NhZ2UfAgICHgdWaXNpYmxlaGRkAg8PZBYEAgEPZBYCAgMPFgIfA2gWGmYPZBYCAgEPZBYCZg8QZGQWAGQCAQ9kFgICAQ9kFgJmDxBkZBYAZAICD2QWAgIBD2QWAmYPEGRkFgBkAgMPZBYCAgEPZBYCZg8QZGQWAGQCBA9kFgICAQ9kFgJmDxBkZBYAZAIFD2QWAgIBD2QWAmYPEGRkFgBkAgYPZBYCAgEPZBYCZg8QZGQWAGQCBw9kFgICAQ9kFgJmDxBkZBYAZAIID2QWAgIBD2QWAmYPEGRkFgBkAgkPZBYCAgEPZBYCZg8QZGQWAGQCCg9kFgICAQ9kFgJmDxBkZBYAZAILD2QWAgIBD2QWAgIBDxBkZBYBZmQCDA9kFgICAQ9kFgICAQ8QZGQWAWZkAgMPDxYCHwNoZBYCAgEPPCsAEQEBEBYAFgAWAGQYAgUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFIGN0bDAwJExvZ2luQm94MSRMb2dpbkltYWdlQnV0dG9uBTJjdGwwMCRyaWdodENvbnRhaW5lciRDb250ZW50VGFibGUxJGd2SW5zdGl0dXRlTGlzdA9nZOUGZ2w5MN84wAyYBhZL1mZ37+hq5ys0yu/AOQmP+Yxn" />
+</div>
+
+
+<script type="text/javascript" src="/approvedinstitues/ajaxpro/prototype.ashx"></script>
+<script type="text/javascript" src="/approvedinstitues/ajaxpro/core.ashx"></script>
+<script type="text/javascript" src="/approvedinstitues/ajaxpro/converter.ashx"></script>
+<script type="text/javascript" src="/approvedinstitues/ajaxpro/StaticPages_frmSearchInstitute,App_Web_frmsearchinstitute.aspx.427e0f.ashx"></script>
+
+<script src="/approvedinstitues/ScriptResource.axd?d=poKlRVT1ZzX8pymIF7GLiLDlEQKH83IC7iJSUSvEWYIousA33RYHllYgtfdnnfm27CA4kvJjzwV1WyGvlLk4hxJJ0e3O945dyshrEKjfABrxKm4f1lTRzp7fSZ6YFMSyi21n6WIUAtjFFKPSdWJL3X72SFFXMp-SYQYp_txyq9ONfy3FSHHiP6gDDBSNv2D-0&amp;t=40d258c3" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+            
+            <div id="mainContainer">
+                <div class="top-area">
+                    <div class="language-area">
+                        <div class="select-language">
+                            <div class="language-text">
+                                Select Language :<select name="ctl00$ddlLanguage" id="ctl00_ddlLanguage" style="width: 120px;">
+	<option selected="selected" value="English">English</option>
+	<option value="Marathi">मराठी</option>
+
+</select>
+                            </div>
+                        </div>
+                        <div class="search">
+                            <div>
+                                <span>
+                                    <div id="cse-search-form" style="width: 100%; background-color: transparent;">Loading</div>
+                                    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+                                    <script type="text/javascript">
+                                        google.load('search', '1', { language: 'en' });
+                                        google.setOnLoadCallback(function () 
+                                        {
+                                            var customSearchControl = new google.search.CustomSearchControl('007452463721104235605:ceji2oe0o0u');
+                                            customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                                            var options = new google.search.DrawOptions();
+                                            options.enableSearchboxOnly("http://www.google.com/cse?cx=007452463721104235605:ceji2oe0o0u", null, false);
+                                            customSearchControl.draw('cse-search-form', options);
+                                        }, true);
+                                    </script>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="size-container">
+                            <a href="#" onclick="javascript:if(i &gt; 5) {body.style.fontSize=--i+'px';}" > 
+                            <img src="../OasisModules_Files/Images/a_small.jpg" alt="size" border="0" /></a> 
+                            <a href="#" onclick="javascript:body.style.fontSize='12px'; i=12;"><img src="../OasisModules_Files/Images/a_img.jpg" border="0" alt="size" /></a> 
+                            <a href="#" onclick="javascript:if(i &lt; 20){body.style.fontSize=++i+'px';}" ><img src="../OasisModules_Files/Images/a_large.jpg" border="0" alt="size" /></a>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="logo-area">
+                        <div class="logo-bg">
+                            
+<div class="header">
+    <div class="header-left">
+         <img alt="Logo" src="../OasisModules_Files/Images/Website_Logo.gif" height="74" width="85" /></div>
+    <div class="header-right">
+        <span id="ctl00_Header_New1_lblHeaderText"><div><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:16px;">Directorate of Technical Education, Maharashtra State</span></span></div><div><span style="font-size: 20px;"><span style="font-family: arial unicode ms;">तंत्रशिक्षण संचालनालय, महाराष्ट्र राज्य </span></span></div></span>
+    </div>
+</div>
+
+                        </div>
+                        <div class="login-bg ">
+                            <div id="ctl00_LoginBox1" class="LoginBox">
+	<table class="boxwidthNB" cellspacing="0" cellpadding="1" border="0" id="ctl00_LoginBox1" style="border-collapse:collapse;padding-right: 5">
+		<tr>
+			<td><table cellpadding="0" border="0" style="color:White;font-family:verdana;font-size:11px;height:70px;width:320px;">
+				<tr>
+					<td class="loginbox_textbox-label" align="right"><label for="ctl00_LoginBox1_UserName">Login ID:</label></td><td><input name="ctl00$LoginBox1$UserName" type="text" id="ctl00_LoginBox1_UserName" class="loginbox_textbox-text" style="background-color:White;font-size:11px;height:15px;width:130px;" />&nbsp;</td>
+				</tr><tr>
+					<td class="loginbox_textbox-label" align="right"><label for="ctl00_LoginBox1_Password">Password:</label></td><td><input name="ctl00$LoginBox1$Password" type="password" id="ctl00_LoginBox1_Password" class="loginbox_textbox-text" style="background-color:White;font-size:11px;height:15px;width:130px;" />&nbsp;</td>
+				</tr><tr>
+					<td align="right" colspan="2"><input type="image" name="ctl00$LoginBox1$LoginImageButton" id="ctl00_LoginBox1_LoginImageButton" class="LoginButton" src="../OasisModules_Files/Images/new_login.jpg" alt="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LoginBox1$LoginImageButton&quot;, &quot;&quot;, true, &quot;ctl00$LoginBox1&quot;, &quot;&quot;, false, false))" style="height:20px;border-width:0px;" /></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table>
+</div><script type="text/javascript" language="javascript">var ctl00_LoginBox1_keydown= function(){var evt= OASIS.FuncLib.GetEvent(arguments[0]);if(evt.keyCode==13){document.getElementById('ctl00_LoginBox1_LoginImageButton').click();}};OASIS.FuncLib.AddEventHandler(document.getElementById('ctl00_LoginBox1_UserName'),'keydown', ctl00_LoginBox1_keydown);OASIS.FuncLib.AddEventHandler(document.getElementById('ctl00_LoginBox1_Password'),'keydown', ctl00_LoginBox1_keydown);</script>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="menubg">
+                        <div class="left-navbg"></div>
+                        <div class="menu-midbg">
+                            <div id="menu">
+                                <div id="top-menu-index">
+                                    <div id="ctl00_TopMenu" class="TopMenu">
+	<div id="horizontal-menu"><ul><li><a href="../StaticPages/HomePage.aspx?tms=1" id="TopMenuLink_1" leftmenus="9,15,19,9,15,19,29,">Home</a></li></ul></div>
+</div><script language="javascript" type="text/javascript">OASIS.TopMenu.RegisterMenu('ctl00_TopMenu');OASIS.TopMenu.TopMenuFirstLinkId=1;OASIS.TopMenu.SetSelected('1');</script>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="right-navbg"></div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="bannaer-bg">
+                        <div class="banner-image-area">
+                            <img src="../OasisModules_Files/Images/Website_CenterImage.jpeg" alt="banner" title="banner" border="0" />
+                        </div>
+                        <div class="clear"></div>
+                        <div class="middle-container">
+                            <div class="left-area">
+                                <div id="ctl00_LeftMenu" class="ExpanderMenu">
+	<div class="Style1"   id="MenuGroup_9"><b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b><div class="MenuHead"><span>Home&nbsp;&nbsp;&nbsp;&nbsp;</span><img src="../OasisModules_Files/Images/ExpanderMenu_up.gif" alt="Button" /></div><div class="MenuLinks"><div class="LinkBox" style="display:inline;"><div id="MenuLink_1" class="FirstLink"><a href="../StaticPages/HomePage.aspx?did=8">Home</a></div><div id="MenuLink_58" class="Link"><a href="../StaticPages/frmInstituteList.aspx?did=63">List of Institutes</a></div><div id="MenuLink_59" class="Link"><a href="../StaticPages/frmSearchInstitute.aspx?did=64">Search Institute</a></div></div></div><b class="b5"></b><b class="b6"></b><b class="b7"></b><b class="b8"></b></div><br/><div class="Style1"   id="MenuGroup_19"><b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b><div class="MenuHead"><span>About DTE&nbsp;&nbsp;&nbsp;&nbsp;</span><img src="../OasisModules_Files/Images/ExpanderMenu_up.gif" alt="Button" /></div><div class="MenuLinks"><div class="LinkBox" style="display:inline;"><div id="MenuLink_32" class="FirstLink"><a href="../CMS/Content_Static.aspx?did=37">Vision</a></div><div id="MenuLink_33" class="Link"><a href="../CMS/Content_Static.aspx?did=38">Mission</a></div><div id="MenuLink_36" class="Link"><a href="../CMS/Content_Static.aspx?did=41">DTE - Management and Officers</a></div><div id="MenuLink_37" class="Link"><a href="../CMS/Content_Static.aspx?did=42">Regional Directorate</a></div><div id="MenuLink_35" class="Link"><a href="../CMS/Content_Static.aspx?did=40">Present Status of Technical Education </a></div><div id="MenuLink_34" class="Link"><a href="../CMS/Content_Static.aspx?did=39">Future Plans</a></div><div id="MenuLink_56" class="Link"><a href="../CMS/Content_Static.aspx?did=61">Highlights</a></div><div id="MenuLink_144" class="Link"><a href="http://fileserver.mkcl.org/approvedinstitues/OasisModules_Files/Files/188.pdf?did=170">Officer/Staff Extension Nos.</a></div><div id="MenuLink_51" class="Link"><a href="../CMS/Content_Static.aspx?did=56">Contact Us</a></div></div></div><b class="b5"></b><b class="b6"></b><b class="b7"></b><b class="b8"></b></div><br/><div class="Style1"   id="MenuGroup_15"><b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b><div class="MenuHead"><span>Valuable Links&nbsp;&nbsp;&nbsp;&nbsp;</span><img src="../OasisModules_Files/Images/ExpanderMenu_up.gif" alt="Button" /></div><div class="MenuLinks"><div class="LinkBox" style="display:inline;"><div id="MenuLink_116" class="FirstLink"><a href="http://192.168.1.1/webmail/login?did=132">WebMail</a></div><div id="MenuLink_47" class="Link"><a href="http://dtemaharashtra.gov.in/emisweb/?did=52">EMIS</a></div><div id="MenuLink_49" class="Link"><a href="../CMS/Content_Static.aspx?did=54">Training</a></div><div id="MenuLink_50" class="Link"><a href="../CMS/Content_Static.aspx?did=55">Careers</a></div><div id="MenuLink_54" class="Link"><a href="../CMS/Content_Static.aspx?did=59">Related Links</a></div><div id="MenuLink_55" class="Link"><a href="../CMS/Content_Static.aspx?did=60">MPSC Advertisements</a></div><div id="MenuLink_41" class="Link"><a href="../CMS/Content_Static.aspx?did=46">Shikshan Shulka Samiti</a></div><div id="MenuLink_16" class="Link"><a href="http://124.153.85.227/fmis/login.asp?did=20">FMIS</a></div><div id="MenuLink_14" class="Link"><a href="../CMS/Content_Static.aspx?did=16">Right to Information </a></div><div id="MenuLink_92" class="Link"><a href="http://124.153.85.227/DTE_ESE_Services/StaticPages/Default.aspx?did=104">Rojgarvahini</a></div><div id="MenuLink_110" class="Link"><a href="../CMS/Content_Static.aspx?did=125">Citizen Charter</a></div><div id="MenuLink_181" class="Link"><a href="/institutes/statistics10/aishe.html?did=229">AISHE</a></div><div id="MenuLink_191" class="Link"><a href="/teqip/StaticPages/HomePage.aspx?did=251">TEQIP II</a></div><div id="MenuLink_200" class="Link"><a href="/EBCScholarship?did=261">EBC Concession</a></div><div id="MenuLink_215" class="Link"><a href="/courseapproval2014/?did=277">Variation in intake 2014-15</a></div><div id="MenuLink_259" class="Link"><a href="/approvedinstitues/Notifications/Notification_14_2_2013_1774387563.pdf?did=285?did=332">Perspective Plan </a></div><div id="MenuLink_391" class="Link"><a href="../StaticPages/frmPESAReport.aspx?did=506">Panchayat Extention to Schedule Area (PESA)</a></div></div></div><b class="b5"></b><b class="b6"></b><b class="b7"></b><b class="b8"></b></div><br/>
+</div><script language="javascript" type="text/javascript">OASIS.ExpanderMenu.RegisterMenu('ctl00_LeftMenu', []);OASIS.ExpanderMenu.ProjectName='JRADM';OASIS.ExpanderMenu.SlideDelay=5;OASIS.ExpanderMenu.SlidePixel=5;OASIS.ExpanderMenu.DoFading=false;</script>
+                            </div>
+                            <div class="inner_rightarea">
+                                <div class="right-contanier-box">
+                                    <span id="ctl00_upShowMsg">
+                                            
+                                        </span>
+                                    
+    <script language="javascript" type = "text/javascript">
+        function numbersonly(e)
+        {
+            var unicode = e.charCode? e.charCode : e.keyCode
+            if (unicode != 8)
+            { 
+                if (unicode<48||unicode>57) 
+                {
+                    return false 
+                }
+            }
+        } 
+        function getMainCourse(CourseLevelID)
+        {
+            var ds = StaticPages_frmSearchInstitute.getMainCourseList(CourseLevelID, FillMainCourse_callback);
+        }
+        function FillMainCourse_callback(response)
+        {
+            var MainCourse = document.getElementById("ctl00_rightContainer_ContentBox1_ddlMainCourse");
+            MainCourse.length = 1;
+            
+            if(response != 0 && response.value != null)
+            {
+                var ds = response.value;
+                MainCourse.options[0] = (new Option("All",0));
+                
+                for(var i = 0; i < ds.Tables[0].Rows.length; i++)
+                {
+                    MainCourse.options[i+1] = (new Option(ds.Tables[0].Rows[i].MainCourseName, ds.Tables[0].Rows[i].MainCourseID));
+                    MainCourse.selectedIndex = 0;
+                }
+            }
+            else
+            {
+                MainCourse.options[0] = (new Option("All",0));
+            }
+            getCourse(0);
+        }
+        function getCourse(MainCourseID)
+        {
+            var ds = StaticPages_frmSearchInstitute.getCourseList(MainCourseID, FillCourse_callback);
+        }
+        function FillCourse_callback(response)
+        {
+            var Course = document.getElementById("ctl00_rightContainer_ContentBox1_ddlCourse");
+            Course.length = 1;
+            
+            if(response != 0 && response.value != null)
+            {
+                var ds = response.value;
+                Course.options[0] = (new Option("All",0));
+                
+                for(var i = 0; i < ds.Tables[0].Rows.length; i++)
+                {
+                    Course.options[i+1] = (new Option(ds.Tables[0].Rows[i].CourseName, ds.Tables[0].Rows[i].CourseID));
+                    Course.selectedIndex = 0;
+                }
+            }
+            else
+            {
+                Course.options[0] = (new Option("All",0));
+            }
+        }
+        function onChangeEstablishmentYear()
+        {
+            var ddlEstablishmentYear = document.getElementById("ctl00_rightContainer_ContentBox1_ddlEstablishmentYear"); 
+            if (ddlEstablishmentYear.options[ddlEstablishmentYear.selectedIndex].text == "All")
+            {
+                document.getElementById("ctl00_rightContainer_ContentBox1_txtEstablishmentYear").value = ''
+            }
+        }
+        function onChangeCourseStartYear()
+        {
+            var ddlEstablishmentYear = document.getElementById("ctl00_rightContainer_ContentBox1_ddlCourseStartingYear"); 
+            if (ddlEstablishmentYear.options[ddlEstablishmentYear.selectedIndex].text == "All")
+            {
+                document.getElementById("ctl00_rightContainer_ContentBox1_txtCourseStartingYear").value = ''
+            }
+        }
+    </script>
+    <div id="ctl00_rightContainer_ContentBox1" class="ContentBox">
+	<b class="b1" ></b><b class="b2" ></b><b class="b3" ></b><b class="b4" ></b><div class="HeadDiv">
+		<span>Search Institute</span>
+	</div><div class="BodyDiv">
+		<div class="InnerBodyDiv">
+			
+        <table id="ctl00_rightContainer_ContentBox1_tblSearch" class="AppFormTable">
+				<tr>
+					<td style="width:50%" align="right"><b>Seach Institute By Code/Name/AICTE App No</b></td>
+					<td style="width:50%">
+                    <input name="ctl00$rightContainer$ContentBox1$txtSearchInstitute" type="text" id="ctl00_rightContainer_ContentBox1_txtSearchInstitute" style="width:90%;" />
+                    <font color = "red"><sup>*</sup></font>
+                    <br />
+                    Ex. 1011 or Government Polytechnic Avasari or 1-1015323 
+                    
+                </td>
+				</tr>
+				<tr>
+					<td align="center" colspan="2">
+                    <input type="submit" name="ctl00$rightContainer$ContentBox1$btnSearch" value="Search Institute" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$rightContainer$ContentBox1$btnSearch&quot;, &quot;&quot;, true, &quot;Search&quot;, &quot;&quot;, false, false))" id="ctl00_rightContainer_ContentBox1_btnSearch" class="InputButton" />
+                </td>
+				</tr>
+				<tr>
+					<td colspan="2">
+                    <a id="ctl00_rightContainer_ContentBox1_lnkbtnAdvanceSearch" href="javascript:__doPostBack(&#39;ctl00$rightContainer$ContentBox1$lnkbtnAdvanceSearch&#39;,&#39;&#39;)" style="font-weight:bold;">Click Here for Advance Search</a>
+                </td>
+				</tr>
+			</table>
+			
+        
+    
+		</div>
+	</div><b class="b5" ></b><b class="b6" ></b><b class="b7" ></b><b class="b8" ></b>
+</div><script type="text/javascript" language="javascript" src="../Scripts/ContentBox.js"></script><script language="javascript" type="text/javascript">var ctl00_rightContainer_ContentBox1= document.getElementById('ctl00_rightContainer_ContentBox1');OASIS.ContentBox.PrepareObject(ctl00_rightContainer_ContentBox1,false,false,false,false);</script>
+    <br />
+    
+    
+    <script language="javascript" type = "text/javascript">
+        //getMainCourse(0);
+        //onChangeEstablishmentYear();
+        //onChangeCourseStartYear();
+    </script>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="bottombg">
+                <div class="bottom-link">
+                    <a href="#">Photo Gallery</a> | 
+                    <a href="#">Suggestion</a> | 
+                    <a href="#"> Request Info</a> | 
+                    <a href="#">Complaints</a> | 
+                    <a href="#">FAQ</a> | 
+                    <a href="#">Disclaimer</a> | 
+                    <a href="#"> Privacy Policy</a> | 
+                    <a href="#">Sitemap</a> | 
+                    <a href="#">RTI</a>
+                </div>
+                <p align="center" class="icon-spacing">
+                    <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0!" height="31" width="88" border="0" /></a> 
+                    &nbsp; 
+                    <a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border: 0; width: 88px; height: 31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /></a>
+                </p>
+            </div>
+            <div class="clear"></div>
+        </form>
+    </body>
+</html>

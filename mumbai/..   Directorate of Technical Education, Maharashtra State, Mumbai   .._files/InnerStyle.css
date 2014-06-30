@@ -1,0 +1,475 @@
+﻿.color-red    {background:#919191;}
+
+/*new css*/
+.list-text li {
+  margin-left: 22px;
+  padding-left: 0;
+  font-size:11px;
+    font-family: Verdana;
+} 
+/* Content Box - Start */
+.ContentBox
+{
+	background:transparent;
+	margin:1px 2px 0 5px;	
+	width:99%;
+}
+
+.ContentBox-innergrid
+{
+	background:transparent;
+	margin:1px 2px 0 5px;	
+	width:80%;
+}
+.ContentBox .b1, .ContentBox .b2, .ContentBox .b3, .ContentBox .b4,
+.ContentBox .b5, .ContentBox .b6, .ContentBox .b7, .ContentBox .b8
+{
+	background:transparent;
+	display:block;
+	overflow:hidden;
+	height:1px;
+	font-size:1px; 
+}
+.ContentBox .b2, .ContentBox .b3, .ContentBox .b4, .ContentBox .b5, .ContentBox .b6, .ContentBox .b7
+{
+	border:1px solid #6f9724;/* c8c8c8 Border Color*/
+	border-width:0 1px;
+}
+@media screen
+{
+	.ContentBox .b2, .ContentBox .b3, .ContentBox .b4
+	{ 
+		background:#95bc47;/*Head Color*/
+		#filter:progid:DXImageTransform.Microsoft.Gradient(endColorstr='#919191', startColorstr='#919191', gradientType='1');
+	 }
+}
+.ContentBox .b5, .ContentBox .b6, .ContentBox .b7
+{
+	background:#FFFFFF;/*Body Color*/
+}
+.ContentBox .b1, .ContentBox .b8
+{
+	margin:0 5px;
+	background:#660066;/*Border Color*/
+	border:1px solid #6f9724;/* c8c8c8 Border Color*/
+	border-width:1px 0 0 0;
+	height:0;
+}
+.ContentBox .b2, .ContentBox .b7
+{
+	margin:0 3px;
+	height:1px;
+	border-width:0 2px;
+}
+.ContentBox .b3, .ContentBox .b6
+{
+	margin:0 2px;
+}
+.ContentBox .b4, .ContentBox .b5
+{
+	margin:0 1px;
+	height:2px;
+}
+.ContentBox .HeadDiv
+{
+	background:transparent;
+	position:relative;
+	#height:14px;
+	display:block;
+	border:1px solid #6f9724;/*c8c8c8 Border Color*/
+	border-width:0 1px 1px 1px;
+	padding: 0 8px 2px 8px;
+	font-weight: bold;
+	font-family:verdana;
+	font-size:11px;
+}
+@media screen
+{
+	.ContentBox .HeadDiv
+	{
+		background:#95bc47;/*Head Color*/
+		color: #ffffff;/*Head Font Color*/
+		#filter:progid:DXImageTransform.Microsoft.Gradient(endColorstr='#919191', startColorstr='#919191', gradientType='1');
+	}
+}
+.HeadDiv a
+{
+	position:absolute;
+	right:5px;
+	bottom:1px;
+}
+.HeadDiv img
+{
+	border:0;
+	height:15px;
+}
+.ContentBox .BodyDiv
+{
+	background:transparent;
+	display:block;
+	background:#FFFFFF;/*Body Color*/
+	border:1px solid #6f9724;/* c8c8c8 Border Color*/
+	border-width:0 1px;
+}
+.ContentBox .InnerBodyDiv
+{
+	padding:4px 5px 0 5px; 
+}
+
+.ContentBox input {font-family:Verdana ;
+	border:1px solid #b4b4b4;
+	font-size:11px; height:17px;}
+	
+
+/*Content Box -End*/
+
+
+/*Table used for alignment*/
+.AppFormTable
+{
+	width:100%;
+	padding:0 3px;
+	font-size:11px;
+	font-family: Verdana;
+	letter-spacing:0.04em;
+	/*font-weight:bold;*/
+	border:0px solid #729827;/*Border Color*/
+	background-color:#FFFFFF;/*Background Color*/
+	color:Black;/*Font Color*/
+	border-collapse:collapse;
+	border-width:0 1px 1px 0;
+}
+
+
+.AppFormTableAge
+{
+	width:100%;
+	padding:0 3px;
+	font-size:11px;
+	font-family:Verdana;
+	letter-spacing:0.03em;
+	/*font-weight:bold;*/
+	border:0px solid white;/*Border Color*/
+	background-color:#FFFFFF;/*Background Color*/
+	color:Black;/*Font Color*/
+	border-collapse:collapse;
+	border-width:0 0px 0px 0;
+}
+.AppFormTable td
+{
+	border:0px solid #729827;
+	border-width:1px 0 0 1px;
+	padding:4px;
+	font-size:11px;
+}
+
+
+.AppFormTable input {font-family:Verdana ;
+	border:1px solid #648c19;
+	font-size:11px; }
+.TextInput
+{
+	font-family:Verdana ;
+	border:1px solid #2b70a7;
+	font-size:10px;
+}
+.ddList
+{
+	font-family:verdana;
+	font-size:10px;
+}
+.AppFormTable th
+{	
+	font:11px solid Verdana;
+	font-weight:bold;
+	color:Black;
+	border:0px solid #729827;
+	border-width:1px 0 0 1px;
+	padding:4px;
+	letter-spacing:0.04em;
+	background-color:#ebf3db;
+}
+.AppFormTable .head
+{
+	/*background-color:#ffffff;*/
+	font:11px solid Verdana;
+	font-weight:bold;
+	color:white;
+	border:0px solid #729827;
+	letter-spacing:0.03em;
+	border-width:1px 0 0 1px;
+	padding:4px;
+	text-align:center;
+}
+.AppFormTableWithOutBorder
+{
+	width:100%;
+	padding:0 3px;
+	font-size:11px;
+	font-family: Verdana;
+	letter-spacing:0.04em;
+	/*font-weight:bold;*/
+	border:0px solid #c8c8c8;/*Border Color*/
+	background-color:#FFFFFF;/*Background Color*/
+	color:#000000;/*Font Color*/
+	border-collapse:collapse;
+	border-width:0 0 0 0;
+}
+.AppFormTableWithOutBorder td
+{
+	border:0px solid #c8c8c8;
+	border-width:0 0 0 0;
+	padding:4px;
+	font-family: Verdana;
+	font-size:11px;
+}
+.AppFormTableWithOutBorder th
+{	
+	font:11px solid Verdana;
+	font-weight:bold;
+	color:#000000;
+	border:0px solid #c8c8c8;
+	border-width:0 0 0 0;
+	padding:4px;
+	letter-spacing:0.04em;
+	background-color:#d8d8d8;
+}
+/*Table used for alignment- End*/
+.AppFormTableNew
+{
+	width:100%;
+	padding:0 3px;
+	font-size:10px;
+	font-family: Verdana;
+	letter-spacing:0.04em;
+	/*font-weight:bold;*/
+	border:0px solid #729827;/*Border Color*/
+	background-color:#FFFFFF;/*Background Color*/
+	color:Black;/*Font Color*/
+	border-collapse:collapse;
+	border-width:0 1px 0px 0;
+}
+.AppFormTableNew td
+{
+	border:0px solid #729827;
+	border-width:1px 0 0 1px;
+	padding:4px;
+	font-size:10px;
+}
+.AppFormTableNew th
+{	
+	font:10px solid Verdana;
+	font-weight:bold;
+	color:Black;
+	border:0px solid #729827;
+	border-width:1px 0 0 1px;
+	padding:4px;
+	letter-spacing:0.04em;
+	background-color:#ebf3db;
+}
+
+/*Button style*/
+.InputButton
+{      
+   font-size:11px;
+   font-family:Verdana,sans-serif;
+   color:#fff;
+   font-weight:bold; padding-left:3px; padding-right:3px;
+background-color:#658d1a;height:28px!important;
+  /*  
+   border:0px solid #075c78; 
+   background-image:url(images/inputbutton-bg.jpg ); 
+   background-repeat:repeat-x; padding:0; margin:0;  */
+   
+  
+   border-top-style:solid;
+   border-top-color:#648c19;
+   border-top-width:1px;
+   border-bottom-style:solid;
+   border-bottom-color:#648c19;
+   border-bottom-width:1px;
+   border-left-style:solid;
+   border-left-color:#648c19;
+   border-left-width:8px;
+   border-right-style:solid;
+   border-right-color:#648c19;
+   border-right-width:1px;   
+}
+
+.InputButton-main
+{      
+   font-size:11px;
+   font-family:Verdana,sans-serif;
+   color:#fff;
+   font-weight:bold; padding-left:3px; padding-right:3px;height:28px!important;
+   background-color:#c00201;
+  /*  
+   border:0px solid #075c78; 
+   background-image:url(images/inputbutton-bg.jpg ); 
+   background-repeat:repeat-x; padding:0; margin:0;  */
+   background-color:#ffff;
+   border-top-style:solid;
+   border-top-color:#949294;
+   border-top-width:1px;
+   border-bottom-style:solid;
+   border-bottom-color:#949294;
+   border-bottom-width:1px;
+   border-left-style:solid;
+   border-left-color:#949294;
+   border-left-width:8px;
+   border-right-style:solid;
+   border-right-color:#949294;
+   border-right-width:1px;
+}
+
+/* Show Message */
+.ShowMessage div
+{
+	border:0 solid #AAA;
+	border-width:0 1px;
+	padding:5px 10px;
+	#padding:1px 6px; 
+	background:#EFEFFF;
+	margin:0;
+	min-height:40px;
+	_height:35px;
+	clear:left;
+	width:677px; 
+	font-family:verdana; 
+	font-size:15px; 
+	font-weight:600;   
+}
+.ShowMessage .b1, .ShowMessage .b2, .ShowMessage .b3, .ShowMessage .b4
+{
+	clear:none;
+	display:block;
+	overflow:hidden;
+	height:1px;
+	font-size:1px;
+}
+.ShowMessage .b2, .ShowMessage .b3, .ShowMessage .b4
+{
+	border:0 solid #AAA;
+	border-width:0px 1px;
+	background:#EFEFFF;
+}
+.ShowMessage .b1
+{
+	margin:0 5px;
+	background:#AAA;
+	width:691px;
+}
+.ShowMessage .b2
+{
+	margin:0 3px;
+	height:1px;
+	border-width:0px 2px;
+	width:691px;
+}
+.ShowMessage .b3
+{
+	margin:0 2px;
+	width:694px;
+}
+.ShowMessage .b4
+{
+	margin:0 1px;
+	height:2px;
+	width:696px;
+}
+.ShowMessage div img
+{
+	height:45px;
+	float:left;
+	margin:0 5px 0 0;
+}
+.ShowMessage div br
+{
+	clear:none;
+}
+/* Show Message- End */
+
+  
+	 /*.loginButnBg{
+	background:url(images/login-btn-bg.png) no-repeat top left; 
+	width:60px;
+	height:22px; 
+	font-family:verdana; 
+	font-size:12px !important; 
+	font-weight:bold;    
+	color:#000000!important; text-align:center; padding-top:2px !important;  
+	}*/
+	
+	.loginButnBg
+{
+	background:url(images/login-btn-bg.png) no-repeat top left; 
+	width:91px;
+	height:24px; 
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px !important; 
+	font-weight:bold !important;    
+	color:#000000 !important; 
+	text-align:center; padding-top:4px !important;  
+} 
+	
+.grid-header-text
+{
+	font-family:Verdana; font-size:12px;
+}	
+
+
+
+.AppFormTable2
+{
+	width:100%;
+	padding:0 3px;
+	font-size:10px;
+	font-family: Verdana;
+	letter-spacing:0.04em;
+	/*font-weight:bold;*/
+	border:0px solid #c8c8c8;/*Border Color*/
+	background-color:#f2f2f2;/*Background Color*/
+	color:#787878;/*Font Color*/
+	border-collapse:collapse;
+	border-width:0 0px 0px 0;
+}
+
+
+.AppFormTable2 td
+{
+	border:0px solid #c8c8c8;
+	border-width:0px 0 0 0px;
+	padding:4px;
+	font-size:11px;
+}
+
+
+.AppFormTable2 input {font-family:Verdana ;
+	border:1px solid #b4b4b4;
+	font-size:11px; height:20px;}
+	
+	.AppFormTable2 th
+{	
+	font:11px solid;
+	font-weight:bold;
+	color:Black;
+	border:0px solid #b4b4b4;
+	border-width:1px 0 0 1px;
+	padding:4px;
+	letter-spacing:0.04em;
+	background-color:#d8d8d8; font-family:verdana;
+}
+.AppFormTable2 .head
+{
+	/*background-color:#ffffff;*/
+	font:13px solid Verdana;
+	font-weight:bold;
+	color:white;
+	border:0px solid #d8d8d8;
+	letter-spacing:0.03em;
+	border-width:1px 0 0 1px;
+	padding:4px;
+	text-align:center;
+}
+
+

@@ -1,0 +1,68 @@
+﻿.DataGrid
+{
+	color: black;
+	border: 1px solid #729827;
+	background-color: #ffffff;
+	font-family: verdana;
+	text-align: left;
+	border-bottom-width: 0;
+	border-right-width: 0;
+	background-image:url("../images/f10.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.DataGrid .Header
+{
+	background-color: #ebf3db;
+	color: black;
+	font-weight: bold;
+}
+.DataGrid .Footer
+{
+	background-color: #ebf3db;
+	color: black;
+	font-weight: bold;
+}
+.DataGrid .Item
+{
+	color: black;
+}
+.DataGrid td
+{	
+	border:1px solid #729827;
+	border-left-width:0;
+	border-top-width:0;
+	font-size:11px;
+	color: #000000;
+	font-family:Verdana;
+	padding:2px;
+}
+.DataGrid tr:hover
+{	
+	background-color: #9ad6ff;	
+}
+.DataGrid th
+{
+	font-size: 11px;
+	background-color:#ebf3db;
+	color: Black;
+	letter-spacing: 0.03em;
+	border:1px solid #729827;
+	border-left-width:0;
+	font-family:Verdana;
+	border-top-width:0;
+	text-align:center; font-weight:normal; 
+	font-weight:bold;
+	padding:2px;
+}
+.DataGrid caption
+{
+	font-size: 15px;
+	color:White;
+	font-weight:bold;
+	background:  #787878;
+	text-align:left;
+	padding:5px;
+}
+
+
