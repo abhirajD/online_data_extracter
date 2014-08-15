@@ -11,8 +11,8 @@ reload(sys)
 print "DEFAULT ENCODING : ",sys.getdefaultencoding().upper()
 
 
-region = "amravati"
-img_tagname = 'nashik' 
+region = "mumbai"
+img_tagname = 'mum' 
 os.chdir("./"+region)
 
 
